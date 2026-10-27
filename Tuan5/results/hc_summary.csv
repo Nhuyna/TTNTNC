@@ -1,0 +1,5 @@
+n,Thuật toán,runs,success_%,avg_final_h,avg_steps,avg_evals,avg_time_s,stuck_runs
+4,Steepest HC,100,41.0,0.66,1.66,28.0,0.00014905500109307468,59
+4,Ineff. Stochastic HC,100,27.0,0.83,1.97,33.4,0.0001765450101811439,73
+8,Steepest HC,100,17.0,1.24,3.35,235.08,0.0020933429861906914,83
+8,Ineff. Stochastic HC,100,16.0,1.27,4.99,327.48,0.00293376900954172,84

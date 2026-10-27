@@ -1,0 +1,4 @@
+Bài toán,Kích thước,Thuật toán,Số màu / lượt,Thành công (%),Xung đột / COUNT,Thời gian (s)
+n-Queens,n = 4,Simulated Annealing,100 lượt,100,h cuối TB = 0.00; số lần đánh giá TB = 48,0.0005
+n-Queens,n = 8,Steepest HC,100 lượt,17,h cuối TB = 1.24; số lần đánh giá TB = 235,0.0021
+n-Queens,n = 8,Ineff. Stochastic HC,100 lượt,16,h cuối TB = 1.27; số lần đánh giá TB = 327,0.0029

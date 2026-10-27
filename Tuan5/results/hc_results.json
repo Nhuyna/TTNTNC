@@ -1,0 +1,57 @@
+{
+ "hc": [
+  {
+   "n": 4,
+   "Thu\u1eadt to\u00e1n": "Steepest HC",
+   "runs": 100,
+   "success_%": 41.0,
+   "avg_final_h": 0.66,
+   "avg_steps": 1.66,
+   "avg_evals": 28.0,
+   "avg_time_s": 0.000149,
+   "stuck_runs": 59
+  },
+  {
+   "n": 4,
+   "Thu\u1eadt to\u00e1n": "Ineff. Stochastic HC",
+   "runs": 100,
+   "success_%": 27.0,
+   "avg_final_h": 0.83,
+   "avg_steps": 1.97,
+   "avg_evals": 33.4,
+   "avg_time_s": 0.000177,
+   "stuck_runs": 73
+  },
+  {
+   "n": 8,
+   "Thu\u1eadt to\u00e1n": "Steepest HC",
+   "runs": 100,
+   "success_%": 17.0,
+   "avg_final_h": 1.24,
+   "avg_steps": 3.35,
+   "avg_evals": 235.08,
+   "avg_time_s": 0.002093,
+   "stuck_runs": 83
+  },
+  {
+   "n": 8,
+   "Thu\u1eadt to\u00e1n": "Ineff. Stochastic HC",
+   "runs": 100,
+   "success_%": 16.0,
+   "avg_final_h": 1.27,
+   "avg_steps": 4.99,
+   "avg_evals": 327.48,
+   "avg_time_s": 0.002934,
+   "stuck_runs": 84
+  }
+ ],
+ "sa4": {
+  "runs": 100.0,
+  "success_%": 100.0,
+  "avg_final_h": 0.0,
+  "avg_steps": 24.38,
+  "avg_evals": 48.21,
+  "avg_time_s": 0.0004769439925439656,
+  "stuck_runs": 0.0
+ }
+}
